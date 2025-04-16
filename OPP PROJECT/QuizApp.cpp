@@ -242,14 +242,14 @@ int main() {
     MultipleChoiceQuestion chem_mcq_q[5] = {
         MultipleChoiceQuestion("Water = ", 2, chemMCQOptions,0, 1),
         MultipleChoiceQuestion("The most important Aluminium ore is?", 2, chemMCQOptions,1, 2),
-        MultipleChoiceQuestion("Cabonmono Oxide = ", 2, chemMCQOptions,2, 4),
+        MultipleChoiceQuestion("Cabon monoxide = ", 2, chemMCQOptions,2, 4),
         MultipleChoiceQuestion("Which of the following non-metals is most electronegative?", 2, chemMCQOptions,3, 2),
         MultipleChoiceQuestion("Which of the following is commonly found in the acids?", 2, chemMCQOptions,4, 2),
     };
     
     // True/False questions
     TrueFalseQuestion math_bool_q[5] = {
-        TrueFalseQuestion("∫cos(x)dx = sinx+c", 2, true),
+        TrueFalseQuestion("Integral of cos(x)dx = sinx+c", 2, true),
         TrueFalseQuestion("(a+b)^2 = a^2 + 2a + b^2 ", 2, false),
         TrueFalseQuestion("a^2 - b^2 = (a+b)(a-b) ", 2, true),
         TrueFalseQuestion("If f(x) = ln(x) then f'(x) = x", 2, false),
