@@ -86,6 +86,7 @@ public:
     void addPoints(int p) { score += p; }
     int getScore() { return score; }
     string getName() { return name; }
+
 };
 
 // Quiz class
