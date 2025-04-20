@@ -86,14 +86,6 @@ public:
     void addPoints(int p) { score += p; }
     int getScore() { return score; }
     string getName() { return name; }
-
-    bool operator>(Player p)
-    {  return(score > p.score);
-    }
-
-    bool operator==(Player p)
-    {  return(score == p.score);
-    }
 };
 
 // Quiz class
@@ -279,23 +271,6 @@ int main()
     Player player1("Player1");
     // Start the quiz 
     quiz.start(&player1);
-
-
-    // Create player 2
-    Player player2("Player2");
-    // Start the quiz 
-    quiz.start(&player2);
-
-
-    if(player1 > player2)
-    { cout<<"\nPalyer 1 won the Quiz\n";
-    }
-    else if(player1 == player2){
-        cout<<"\nTie\n";
-    }
-    else{
-        cout<<"\nPalyer 2 won the Quiz\n"; 
-    }
 
 return 0;
 }
