@@ -60,10 +60,10 @@ o	Player class:
 6. Results 
 •	Project Outcomes: The quiz app worked as expected, allowing players to select subjects and question types. Scores were calculated and displayed successfully. OOP concepts like inheritance and polymorphism were clearly demonstrated.
 •	Screenshots and Illustrations:
-![image](https://github.com/user-attachments/assets/2f05fab8-861d-40e8-8c00-68146dc2a7ef)
-
+                                     
 
 •	Testing and Validation: Tested multiple quiz sessions with different subjects and question types.
 7. Conclusion 
 • Summary of Findings: The project successfully demonstrated the use of OOP concepts in a functional quiz application. Inheritance and polymorphism were effectively utilized to handle different question types, and the player mode was fully operational, providing an interactive quiz experience.
-• Final Remarks: This project offered valuable hands-on experience in applying OOP principles. While the scope was limited to a basic console interface, it laid a solid foundation for future development and improvement of more complex quiz systems.
+• Final Remarks: This project offered valuable hands-on experience in applying OOP principles. While the scope was limited to a basic console interface, it laid a solid foundation for future development and improvement of more complex quiz system
+
