@@ -42,11 +42,11 @@ Exclusions from the project included advanced features such as file handling, pe
 
 •	Roles and Responsibilities: 
 
-o	Member 1: Was responsible for designing and implementing the core quiz logic, including the class structures, inheritance, and polymorphism features. This member handled the main functionality of the quiz flow and question management in the code.
+Member 1: Was responsible for designing and implementing the core quiz logic, including the class structures, inheritance, and polymorphism features. This member handled the main functionality of the quiz flow and question management in the code.
 
-o	Member 2: Focused on researching and implementing GUI-style console interactions to improve the user experience. Worked on visual elements like formatted output and user prompts.
+Member 2: Focused on researching and implementing GUI-style console interactions to improve the user experience. Worked on visual elements like formatted output and user prompts.
 
-o	Member 3: Also contributed to the research and implementation of GUI components, including screen organization, output readability, and overall presentation. Helped ensure the application felt interactive and clean from a user’s perspective.
+Member 3: Also contributed to the research and implementation of GUI components, including screen organization, output readability, and overall presentation. Helped ensure the application felt interactive and clean from a user’s perspective.
 
 # 5. Project Implementation 
 •	Design and Structure: Used a question class with MCQ and TRUE/False as derived classes. Polymorphism was applied using virtual functions. 
