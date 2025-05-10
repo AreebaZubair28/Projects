@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 # Project Title:
 # QUIZ APP
 
