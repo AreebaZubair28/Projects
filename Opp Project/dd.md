@@ -55,11 +55,9 @@ o	Member 3: Also contributed to the research and implementation of GUI component
 
 •	Functionalities Developed:
 
-
 o	Question class: 
 1.	Display function to display question (purely virtual).
 2.	Check answer function to check if the answer matches the correct answer for a particular question.(overridden in the derived classes)
-
 
 o	Player class:  
 1.	Stores name and score of the player
