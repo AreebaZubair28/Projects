@@ -34,7 +34,8 @@ Submission Date:
 2.	Subject selection for the quiz (e.g., Math, Science, etc.)
 3.	Choice between different types of questions: Multiple Choice Questions (MCQs) and True/False.
 4.	Display of questions and calculation of individual player scores.
-5.	Use of object-oriented principles such as class design, inheritance, and polymorphism. 
+5.	Use of object-oriented principles such as class design, inheritance, and polymorphism.
+
 Exclusions from the project included advanced features such as file handling, persistent data storage, or graphical user interfaces beyond basic console output. The focus remained on keeping the project simple, functional, and educational.
 
 •	Technical Overview: Microsoft Visual Studio and Visual Studio Code for coding, testing, and debugging. C++ as the programming language, chosen for its strong support of OOP concepts.
