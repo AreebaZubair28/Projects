@@ -1,5 +1,4 @@
-# Project Title:
-# QUIZ APP
+# Project Title: QUIZ APP
 
 
 
