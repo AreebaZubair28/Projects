@@ -16,11 +16,13 @@ Submission Date:
 
 # 2. Introduction 
 •	Background: This project was centered around creating a simple, interactive, file-less quiz application using C++ to demonstrate the practical implementation of Object-Oriented Programming (OOP) concepts. The project was particularly relevant in the context of learning OOP, as it provided an opportunity to apply theoretical knowledge such as class structures, inheritance, and polymorphism in a functional and engaging application. The added use of basic GUI-style elements through the console further enhanced the experience, making the quiz feel more intuitive and interactive.
+
 •	Project Objective: 
 1.	To develop a functional quiz application in C++
 2.	To implement and demonstrate OOP concepts like inheritance, polymorphism, and encapsulation
 3.	To allow quiz customization based on subject and question type (MCQs or True/False).
 4.	To build a structured program using class hierarchies and modular code design through this project, the team aimed to bridge the gap between theoretical knowledge and practical programming in OOP.
+   
 # 3. Project Description 
 •	Scope: The project included the following components and features:
 1.	Support players to participate in the quiz.
@@ -34,10 +36,12 @@ Exclusions from the project included advanced features such as file handling, pe
 
 # 4. Methodology 
 •	Approach: The team followed a collaborative and iterative development approach. Initially, the group discussed and finalized the project idea—a quiz app that demonstrates OOP concepts. Weekly discussions and updates helped track progress and ensure everyone was aligned. The work was divided based on components and class structures. Throughout development, the team stayed in communication, regularly sharing updates and seeking feedback. The group leader reviewed each completed section to provide input and maintain consistency across the project.
+
 •	Roles and Responsibilities: 
 o	Member 1: Was responsible for designing and implementing the core quiz logic, including the class structures, inheritance, and polymorphism features. This member handled the main functionality of the quiz flow and question management in the code.
 o	Member 2: Focused on researching and implementing GUI-style console interactions to improve the user experience. Worked on visual elements like formatted output and user prompts.
 o	Member 3: Also contributed to the research and implementation of GUI components, including screen organization, output readability, and overall presentation. Helped ensure the application felt interactive and clean from a user’s perspective.
+
 # 5. Project Implementation 
 •	Design and Structure: Used a question class with MCQ and TRUE/False as derived classes. Polymorphism was applied using virtual functions. 
 
@@ -48,11 +52,13 @@ o	Question class:
 o	Player class:  
 1.	Stores name and score of the player
 2.	Add points function increase score if answer is correct.
+
 •	Challenges Faced: implementing GUI was challenging since it was our first time working with it but YouTube tutorials and online resources helped a lot. Since file handling was excluded, all data had to be managed in memory during runtime, which slightly limited question scalability but simplified debugging.
 
 
 # 6. Results 
 •	Project Outcomes: The quiz app worked as expected, allowing players to select subjects and question types. Scores were calculated and displayed successfully. OOP concepts like inheritance and polymorphism were clearly demonstrated.
+
 •	Screenshots and Illustrations:
 
 ![image](https://github.com/user-attachments/assets/9b4e0922-0bd7-4ee2-a803-e0cbb0c388c9)
@@ -60,5 +66,6 @@ o	Player class:
 •	Testing and Validation: Tested multiple quiz sessions with different subjects and question types.
 # 7. Conclusion 
 • Summary of Findings: The project successfully demonstrated the use of OOP concepts in a functional quiz application. Inheritance and polymorphism were effectively utilized to handle different question types, and the player mode was fully operational, providing an interactive quiz experience.
+
 • Final Remarks: This project offered valuable hands-on experience in applying OOP principles. While the scope was limited to a basic console interface, it laid a solid foundation for future development and improvement of more complex quiz system
 
