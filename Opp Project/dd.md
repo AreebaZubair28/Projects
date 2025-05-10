@@ -1,14 +1,5 @@
 # Project Title: QUIZ APP
 
-
-
-
-
-
-
-
-
-
 Group Members: 
 
 Areeba (24k-0596)
