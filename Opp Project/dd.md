@@ -44,8 +44,11 @@ Exclusions from the project included advanced features such as file handling, pe
 •	Approach: The team followed a collaborative and iterative development approach. Initially, the group discussed and finalized the project idea—a quiz app that demonstrates OOP concepts. Weekly discussions and updates helped track progress and ensure everyone was aligned. The work was divided based on components and class structures. Throughout development, the team stayed in communication, regularly sharing updates and seeking feedback. The group leader reviewed each completed section to provide input and maintain consistency across the project.
 
 •	Roles and Responsibilities: 
+
 o	Member 1: Was responsible for designing and implementing the core quiz logic, including the class structures, inheritance, and polymorphism features. This member handled the main functionality of the quiz flow and question management in the code.
+
 o	Member 2: Focused on researching and implementing GUI-style console interactions to improve the user experience. Worked on visual elements like formatted output and user prompts.
+
 o	Member 3: Also contributed to the research and implementation of GUI components, including screen organization, output readability, and overall presentation. Helped ensure the application felt interactive and clean from a user’s perspective.
 
 # 5. Project Implementation 
