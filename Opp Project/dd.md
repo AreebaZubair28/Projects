@@ -18,6 +18,7 @@ Submission Date:
 20-04-2025
 # 1. Executive Summary 
 •	Overview: The project involved designing and implementing a quiz application using C++ with a focus on Object-Oriented Programming (OOP) principles. The application allowed users to select a subject and quiz type (Multiple Choice Questions or True/False) and then take turns answering questions. The system was built entirely without file handling and featured basic GUI-style console interactions to enhance user experience. Key OOP concepts such as classes, inheritance, and polymorphism were integrated into the project’s structure. Tools like Visual Studio and Visual Studio Code were used for development and testing. The main tasks included planning the structure, implementing core functionalities, and refining the program to be functional and engaging.
+
 •	Key Findings: The project successfully demonstrated the practical use of OOP in C++. Core achievements included the effective use of inheritance, with specialized quiz types (MCQs and True/False) derived from a base Question class, and the use of virtual functions to implement polymorphism. The final application supported gameplay and flexible quiz topic selection—all without relying on file input/output. Additionally, the project helped solidify understanding of OOP concepts in a hands-on and meaningful way.
 
 # 2. Introduction 
