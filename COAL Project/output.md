@@ -1,35 +1,3 @@
-Select Menu:
-1. Breakfast
-2. Lunch
-3. Dinner
-→ 2
-
------- Lunch Menu ------
-1. Biryani  - Rs.250
-2. Karahi   - Rs.400
-3. Roti     - Rs.20
-Enter choice: 1
-Enter quantity: 2
-
-Add more? (y/n): y
-Enter choice: 3
-Enter quantity: 4
-
-Add more? (y/n): n
-
-------------------------------
-         Bill
-------------------------------
-Item          Qty   Price   Total
---------------------------------
-Biryani        2     250     500
-Roti           4      20      80
---------------------------------
-Subtotal:                     580
-Discount (5%):                29
---------------------------------
-Net Total:                    551
-Enter Payment: 600
-Change:                       49
---------------------------------
-Thank you! Visit Again 🤍
+yeh jo output hai mene isko dekhtay howe thora code likha hai
+<img width="1070" height="665" alt="image" src="https://github.com/user-attachments/assets/e3b1f225-b333-414e-ae26-9981a6e90260" />
+<img width="1021" height="599" alt="image" src="https://github.com/user-attachments/assets/ee57fab5-1efb-49af-9aa6-9afd663c1da7" />
