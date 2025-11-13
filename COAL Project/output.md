@@ -1,7 +1,3 @@
--------------------------------
-   WELCOME TO FAST RESTAURANT
--------------------------------
-
 Select Menu:
 1. Breakfast
 2. Lunch
@@ -22,7 +18,7 @@ Enter quantity: 4
 Add more? (y/n): n
 
 ------------------------------
-         DETAILED BILL
+         Bill
 ------------------------------
 Item          Qty   Price   Total
 --------------------------------
